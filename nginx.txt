@@ -1,0 +1,12 @@
+ 1  docker --version
+    2  sudo su
+    3  docker run --name mynginx1 -p 80:80 -d nginx
+    4  docker images
+    5  docker images
+    6 10  sudo curl http://127.0.0.1
+
+for checking on webserver
+      
+	http://publicip:80 
+   
+   
