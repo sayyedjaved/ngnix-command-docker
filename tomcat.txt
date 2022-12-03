@@ -1,0 +1,16 @@
+docker --version
+    2  git clone https://github.com/SaadSyed06/NubeEra-Tasks.git
+    3  ls
+    4  cd NubeEra-Tasks/
+    5  LS
+    6  ls
+    7  cd Dockerization/
+    8  cd Webservers/
+    9  cd Tomcat/
+   10  ls
+   11  cat Commands\ To\ Deploy.txt
+   12  docker build -t javed
+   13  docker build -t mywebapp .
+   14  sudo docker build -t mywebapp .
+   15  sudo docker run -p 80:8080 mywebapp
+   16  history
